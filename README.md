@@ -1,6 +1,6 @@
 
 # Privacy Policy for What Should We Eat Today?
-Effective Date: [Current Date]
+Effective Date: 20/10/2024
 
 Introduction
 
@@ -49,5 +49,5 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at [contact email].
+If you have any questions about this Privacy Policy, please contact us at rodgers.magabo@gmail.com.
 By using What Should We Eat Today?, you agree to the collection and use of information in accordance with this policy.
